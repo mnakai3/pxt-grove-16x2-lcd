@@ -1,0 +1,8 @@
+{
+    "{id:category}Grove16x2LCD": "Grove 16x2 LCD",
+    "Grove16x2LCD.lcdInit|block": "イニシャライズ",
+    "Grove16x2LCD.lcdClearScreen|block": "画面をクリア",
+    "Grove16x2LCD.lcdWriteText|block": "文字列|%str|を 行|%row|列|%col|に表示",
+    "Grove16x2LCD.rgbSetColorRaw|block": "背景色を R|%r|G|%g|B|%b|に設定",
+    "Grove16x2LCD.rgbSetColor|block": "背景色を|%color|に設定"
+}

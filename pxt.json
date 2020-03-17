@@ -1,0 +1,15 @@
+{
+    "name": "pxt-grove-16x2-lcd",
+    "version": "0.0.0",
+    "license": "MIT",
+    "description": "A Microsoft MakeCode package for Seeed Studio Grove 16x2 LCD module",
+    "dependencies": {
+        "core": "*",
+        "radio": "*"
+    },
+    "files": [
+        "main.ts",
+        "_locales/ja/pxt-grove-16x2-lcd-strings.json"
+    ],
+    "public": true
+}
