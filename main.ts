@@ -31,7 +31,7 @@ namespace Grove16x2LCD {
     export function lcdInit(): void {
         // Wait for more than 30ms after VDD rises
         basic.pause(30);
-        lcdWriteRegister(0x80, 0x20); // function set: 1-line mode
+        lcdWriteRegister(0x80, 0x28); // function set: 2-line mode
         basic.pause(1);
         lcdWriteRegister(0x80, 0x0c); // display control: display on, cursor off, blink off
         basic.pause(1);
